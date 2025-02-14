@@ -5,6 +5,7 @@ export const products = [
     description: "Description for Product 1",
     price: 29.99,
     image: "https://picsum.photos/seed/1/200/300",
+    category: "electronics",
   },
   {
     id: "2",
@@ -12,6 +13,7 @@ export const products = [
     description: "Description for Product 2",
     price: 49.99,
     image: "https://picsum.photos/seed/2/200/300",
+    category: "clothing",
   },
   {
     id: "3",
@@ -19,6 +21,7 @@ export const products = [
     description: "Description for Product 3",
     price: 19.99,
     image: "https://picsum.photos/seed/3/200/300",
+    category: "electronics",
   },
   {
     id: "4",
@@ -26,6 +29,7 @@ export const products = [
     description: "Description for Product 4",
     price: 79.99,
     image: "https://picsum.photos/seed/4/200/300",
+    category: "books",
   },
   {
     id: "5",
@@ -33,6 +37,7 @@ export const products = [
     description: "Description for Product 5",
     price: 9.99,
     image: "https://picsum.photos/seed/5/200/300",
+    category: "clothing",
   },
 ];
 
